@@ -1,0 +1,15 @@
+.img-wid-blk input{
+
+width: 77%;}
+
+.img-wid-blk label {
+    display: block;
+}
+
+.img-wid-blk {
+    margin: 10px 0;
+}
+.img-wid-blk button{
+    width: 80px;
+    margin-left: 5px;
+}
